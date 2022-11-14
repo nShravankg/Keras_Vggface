@@ -18,8 +18,8 @@ VGG16_WEIGHTS_PATH = 'https://github.com/rcmalli/keras-vggface/releases/download
 VGG16_WEIGHTS_PATH_NO_TOP = 'https://github.com/rcmalli/keras-vggface/releases/download/v2.0/rcmalli_vggface_tf_notop_vgg16.h5'
 
 
-RESNET50_WEIGHTS_PATH = 'https://github.com/nShravankg/keras-vggface/releases/tag/face_detection_edge/rcmalli_vggface_tf_resnet50.h5'
-RESNET50_WEIGHTS_PATH_NO_TOP = 'https://github.com/nShravankg/keras-vggface/releases/download/face_detection_edge/rcmalli_vggface_tf_notop_resnet50.h5'
+RESNET50_WEIGHTS_PATH = 'https://github.com/rcmalli/keras-vggface/releases/download/v2.0/rcmalli_vggface_tf_resnet50.h5'
+RESNET50_WEIGHTS_PATH_NO_TOP = 'https://github.com/rcmalli/keras-vggface/releases/download/v2.0/rcmalli_vggface_tf_notop_resnet50.h5'
 
 SENET50_WEIGHTS_PATH = 'https://github.com/rcmalli/keras-vggface/releases/download/v2.0/rcmalli_vggface_tf_senet50.h5'
 SENET50_WEIGHTS_PATH_NO_TOP = 'https://github.com/rcmalli/keras-vggface/releases/download/v2.0/rcmalli_vggface_tf_notop_senet50.h5'
